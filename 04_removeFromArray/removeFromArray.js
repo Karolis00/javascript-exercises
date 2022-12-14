@@ -1,9 +1,4 @@
 const removeFromArray = function(originalArray) {
- //array.splice(index, 1)
- //arguments.length = 3 (0 - array, 1 - /3, 2 - /2)
- //originalArray.length = 4
-
-
 
  for(let i = 0; i < originalArray.length; i++)
  {
